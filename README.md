@@ -74,10 +74,10 @@ data/
 └── sign_mnist_test.csv
 ```
 
-### 4. Create the checkpoints directory
+### 4. Create the data directory
 
 ```bash
-mkdir checkpoints
+mkdir data
 ```
 
 ---

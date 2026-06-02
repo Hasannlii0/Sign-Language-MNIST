@@ -1,0 +1,10 @@
+pandas 
+numpy 
+scikit-learn
+torch 
+torchvision
+pathlib
+tqdm 
+timm 
+opencv-python
+mediapipe
